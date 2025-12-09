@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# HuggingFace cache
+.cache/
+
+# Chroma Vector DB
+backend/vector_store/
+
+# VSCode
+.vscode/
+
+# Uploaded files (if any)
+backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db

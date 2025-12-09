@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Engineer",
+    "description": "Build and deploy ML models using Python, TensorFlow, PyTorch, NLP, and deep learning techniques."
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "description": "Work with structured/unstructured data using Python, Pandas, NumPy, machine learning, and statistics."
+  },
+  {
+    "id": 3,
+    "title": "Data Analyst",
+    "description": "Analyze data using SQL, Excel, Power BI, and visualization tools to generate business insights."
+  },
+  {
+    "id": 4,
+    "title": "AI Engineer",
+    "description": "Design AI solutions using NLP, computer vision, Hugging Face models, LangChain, and deep learning frameworks."
+  },
+  {
+    "id": 5,
+    "title": "Backend Developer (Python)",
+    "description": "Build REST APIs using FastAPI or Django with database integration and Docker containerization."
+  },
+  {
+    "id": 6,
+    "title": "NLP Engineer",
+    "description": "Work on NLP pipelines using NLTK, spaCy, transformers, and large language models."
+  },
+  {
+    "id": 7,
+    "title": "MLOps Engineer",
+    "description": "Manage ML pipelines, model deployment, versioning using MLflow, Docker, AWS, and CI/CD."
+  },
+  {
+    "id": 8,
+    "title": "Big Data Engineer",
+    "description": "Work with large-scale data using Spark, Hadoop, SQL, and data pipelines."
+  },
+  {
+    "id": 9,
+    "title": "Python Developer",
+    "description": "Develop scalable applications using Python, Flask/FastAPI, and database integrations."
+  },
+  {
+    "id": 10,
+    "title": "Frontend Developer",
+    "description": "Build user interfaces using React, JavaScript, HTML, CSS, and modern UI frameworks."
+  },
+  {
+    "id": 11,
+    "title": "Cloud Engineer",
+    "description": "Manage cloud infrastructure using AWS services like EC2, S3, IAM, and deployment pipelines."
+  },
+  {
+    "id": 12,
+    "title": "AI Product Engineer",
+    "description": "Build end-to-end AI products using LLMs, Hugging Face, LangChain, vector databases, and FastAPI."
+  },
+  {
+    "id": 13,
+    "title": "Business Intelligence (BI) Developer",
+    "description": "Create dashboards using Power BI, Tableau, SQL, and data visualization."
+  },
+  {
+    "id": 14,
+    "title": "Deep Learning Engineer",
+    "description": "Design neural networks using TensorFlow, PyTorch, CNNs, RNNs, and transformers."
+  },
+  {
+    "id": 15,
+    "title": "Full Stack Developer",
+    "description": "Build full-stack web apps using React, FastAPI/Node.js, databases, and Docker."
+  }
+]
