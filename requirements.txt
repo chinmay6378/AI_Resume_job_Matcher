@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 sse-starlette
 fastapi
 uvicorn
@@ -11,3 +13,4 @@ transformers
 sentence-transformers
 streamlit
 requests
+torch==2.2.2+cpu
